@@ -1,0 +1,8 @@
+/*--------- Media query pour style2.css (1680px à 1920px) --------*/
+@media screen and (min-width: 1680px) and (max-width: 1920px) {
+    body{
+        background-color:#ffca4b;
+    }
+}
+
+/*-------------------style2.css------ Modifie la couleur du background en #ffca4b-----*/

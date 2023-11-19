@@ -1,0 +1,45 @@
+/*------------- Media query pour les écrans de 1600 pixels et plus---------------------- */
+/*@media screen and (min-width: 1600px) {
+    /* Styles spécifiques pour les écrans de 1600 pixels et plus */
+    /*body{ 
+        display: grid;
+        grid-template-columns:repeat(4, 1fr);
+        gap: 10px;
+       }
+    section {
+        background: #88c1d0;
+         height: 80px;
+         width: 80px;
+         list-style: none;
+     }
+}
+/*--------------- Media query pour les écrans de 768px à 1599px----------------- */
+/*@media screen and (min-width: 768px) and (max-width: 1599px) {
+    body {
+        display: grid;
+        grid-template-columns:repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 10px;
+    }
+    section{
+        background: #88c1d0; 
+        height: 80px;
+         width: 80px;
+         list-style: none;
+    }
+}
+/* Media query pour les écrans de 767 pixels de largeur et moins */
+@media screen and (max-width: 767px) {
+    body{
+        display: grid;
+        grid-template-columns:1fr;
+        grid-template-rows: repeat(4, 1fr);
+        gap: 10px;
+    }
+    section{
+        background: #88c1d0; 
+        height: 80px;
+        width: 80px;
+        list-style: none;
+    }
+}   

@@ -1,0 +1,8 @@
+/*------ Media query pour style4.css (inférieure à 1280px) -----*/
+@media screen and (max-width: 1280px) {
+    body{
+        background-color: #ffffff;
+    }
+}
+
+/*--------------style4------- Modifie la couleur du background en #ffffff */

@@ -1,0 +1,8 @@
+/*---------- Media query pour style3.css (1280px à 1680px) -----------*/
+@media screen and (min-width: 1280px) and (max-width: 1680px) {
+    body{
+        background-color: #275fa0;
+    }
+}
+
+/*----------------style3 --------- Modifie la couleur du background en #275fa0----*/
